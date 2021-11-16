@@ -1,4 +1,4 @@
-# url-shortener-dio
+# url-shortener
 
 URL Shortener built for DIO Project.
 
